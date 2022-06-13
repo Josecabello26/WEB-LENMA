@@ -1,35 +1,38 @@
 <?xml version=»1.0″ encoding=»UTF-8″ ?>
-<rss version=»2.0″>
-
+<rss version="2.0">
 <channel>
-
-<title>El podcast de Radios Libres</title>
-<link>https://www.radioslibres.net/</link>
-<description>Radios Libres presenta su podcast sobre radios comunitarias y tecnologías libres.</description>
-<copyright>CC 4.0 – BY-SA<copyright>
-
+<generator>RSS Builder by B!Soft</generator>
+<title>Baron Rojo Guitars</title>
+<link>https://joseantonionieto.github.io/WebLENMA/</link>
+<description>Web de guitarras</description>
+<language>es</language>
+<managingEditor>gokugamer243@gmail.com</managingEditor>
+<webMaster>gokugamer243@gmail.com</webMaster>
+<copyright>2021 Jose Antonio Nieto Buiza</copyright>
+<image>
+<title>Baron Rojo Guitars</title>
+<link>https://joseantonionieto.github.io/WebLENMA/</link>
+<url>https://joseantonionieto.github.io/WebLENMA/imagenes/baronrojo.png</url>
+</image>
 <item>
-
-<title>Episodio 2 – Usa software libre en tu radio</title>
-<link>https://www.radioslibres.net/podcasts/episodio-2.html</link>
-<description>Conoce todas las alternativas para liberar tu radio.</description>
-<author>Radios Libres</author>
-<pubDate>Thu, 12 Sep 2019</pubDate>
-<enclosure url=»https://www.radioslibres.net/podcasts/episodio2.ogg» type=»audio/ogg» length=»360″ />
-
+<title>Tenemos las nuevas guitarras de ESP</title>
+<pubDate>Tue, 14 Dec 2021 10:04:25 +0100</pubDate>
+<link>https://joseantonionieto.github.io/WebLENMA/</link>
+<author>gokugamer243@gmail.com</author>
+<category>Novedades</category>
+<description>
+<![CDATA[ Ya tenemos las nuevas guitarras de la marca ESP ]]>
+</description>
 </item>
-
 <item>
-
-<title>Episodio 1 – Bienvenida</title>
-<link>https://www.radioslibres.net/podcasts/episodio-1.html</link>
-<description>En el episodio inaugural de nuestro primer podcast les contaremos cómo será esta temporada.</description>
-<author>Radios Libres</author>
-<pubDate>Thu, 5 Sep 2019</pubDate>
-<enclosure url=»https://www.radioslibres.net/podcasts/episodio1.ogg» type=»audio/ogg» length=»300″ />
-
+<title>Mira nuestras nuevas guitarras</title>
+<pubDate>Tue, 14 Dec 2021 09:50:25 +0100</pubDate>
+<link>https://joseantonionieto.github.io/WebLENMA/guitarras.html</link>
+<author>gokugamer243@gmail.com</author>
+<category>Guitarras</category>
+<description>
+<![CDATA[ Nuevas guitarras wapas wapas ]]>
+</description>
 </item>
-
 </channel>
-
 </rss>
