@@ -1,8 +1,8 @@
 <rss version="2.0">
 <channel>
-<title>Canal RSS de Sanctum-Sanctorum</title>
+<title>WIKIRAP</title>
 <link>https://josecabello26.github.io/WEB-LENMA/</link>
-<description>Noticias sobre cine y series</description>
+<description>NOTICIAS RAP</description>
 <language>en-es</language>
 <copyright>©Copyright 2050 by nobody. All rights reversed.</copyright>
 <skipDays>
@@ -11,18 +11,14 @@
 </skipDays>
 <image>
 <url>https://josecabello26.github.io/WEB-LENMA/IMAGENES/bnet.jpg</url>
-<title>Canal RSS de Sanctum-Sanctorum</title>
+<title>CANAL DE NOTICIAS RSS</title>
 <link>https://josecabello26.github.io/WEB-LENMA/PAGINA2.html</link>
 </image>
 <item>
-<title>Noticias sobre Marvel</title>
-<link>https://josecabello26.github.io/WEB-LENMA/PAGINA3.html</link>
-<description>Toda las noticias de interes sobre Marvel</description>
+<title>NOYICIAS DE RAP</title>
+<link>https://www.google.com/search?q=RAP+NOTICIAS&rlz=1C1CHBD_esES873ES877&sxsrf=ALiCzsa4LO_4YcALCyx7-TqVTAB5S-pzQA%3A1655240951245&ei=9_ioYonPDsH0kgWfpIAw&ved=0ahUKEwjJpqqH7a34AhVBuqQKHR8SAAYQ4dUDCA4&uact=5&oq=RAP+NOTICIAS&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBQgAEIAEMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFkoECEEYAUoECEYYAFDRBVjRBWDPB2gBcAB4AIABSYgBSZIBATGYAQCgAQHAAQE&sclient=gws-wiz/link>
+<description>TODAS LAS NOTICIAS RELACIONADAS CON EL RAP</description>
 </item>
 <item>
-<title>Noticias sobre DC</title>
-<link>https://josecabello26.github.io/WEB-LENMA/PAGINA4.html</link>
-<description>Toda las noticias de interes sobre DC</description>
-</item>
 </channel>
 </rss>
