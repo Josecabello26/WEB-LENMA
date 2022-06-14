@@ -1,8 +1,8 @@
 <rss version="2.0">
 <channel>
-<title>WIKIRAP</title>
-<link>https://josecabello26.github.io/WEB-LENMA/</link>
-<description>NOTICIAS RAP</description>
+<title>Canal RSS de Sanctum-Sanctorum</title>
+<link>https://danielms11.github.io/Sanctum-Sanctorum/</link>
+<description>Noticias sobre cine y series</description>
 <language>en-es</language>
 <copyright>©Copyright 2050 by nobody. All rights reversed.</copyright>
 <skipDays>
@@ -10,15 +10,20 @@
 <day>Sunday</day>
 </skipDays>
 <image>
-<url>https://josecabello26.github.io/WEB-LENMA/IMAGENES/bnet.jpg</url>
-<title>CANAL DE NOTICIAS RSS</title>
-<link>https://josecabello26.github.io/WEB-LENMA/PAGINA2.html</link>
+<url>https://danielms11.github.io/Sanctum-Sanctorum/SanctumSanctorum.pn
+g</url>
+<title>Canal RSS de Sanctum-Sanctorum</title>
+<link>https://danielms11.github.io/Sanctum-Sanctorum/</link>
 </image>
 <item>
-<title>NOYICIAS DE RAP</title>
-  <link>https://josecabello26.github.io/WEB-LENMA/PAGINA2.html</link>
-  <description>TODAS LAS NOTICIAS RELACIONADAS CON EL RAP</description>
+<title>Noticias sobre Marvel</title>
+<link>https://danielms11.github.io/Sanctum-Sanctorum/Marvel.html</link>
+<description>Toda las noticias de interes sobre Marvel</description>
 </item>
 <item>
+<title>Noticias sobre DC</title>
+<link>https://danielms11.github.io/Sanctum-Sanctorum/DC.html</link>
+<description>Toda las noticias de interes sobre DC</description>
+</item>
 </channel>
 </rss>
