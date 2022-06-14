@@ -1,35 +1,28 @@
 <rss version="2.0">
 <channel>
-<generator>SEP</generator>
-<title>SEP</title>
+<title>Canal RSS de Sanctum-Sanctorum</title>
 <link>https://josecabello26.github.io/WEB-LENMA/</link>
-<description>SEP</description>
-<language>es</language>
-<managingEditor>cabellocabello9@gmail.com</managingEditor>
-<webMaster>cabellocabello9@gmail.com</webMaster>
-<copyright>2022 Jose Cabello</copyright>
+<description>Noticias sobre cine y series</description>
+<language>en-es</language>
+<copyright>©Copyright 2050 by nobody. All rights reversed.</copyright>
+<skipDays>
+<day>Saturday</day>
+<day>Sunday</day>
+</skipDays>
 <image>
-<title>SEP</title>
-<link>https://josecabello26.github.io/WEB-LENMA/</link>
 <url>https://josecabello26.github.io/WEB-LENMA/IMAGENES/bnet.jpg</url>
+<title>Canal RSS de Sanctum-Sanctorum</title>
+<link>https://josecabello26.github.io/WEB-LENMA/PAGINA2.html</link>
 </image>
 <item>
-<title>SEP</title>
-<pubDate>Tue, 14 Dec 2021 10:04:25 +0100</pubDate>
-<link>https://josecabello26.github.io/WEB-LENMA/</link>
-<author>cabellocabello9@gmail.com</author>
-<category>SEP</category>
-<description>
-</description>
+<title>Noticias sobre Marvel</title>
+<link>https://josecabello26.github.io/WEB-LENMA/PAGINA3.html</link>
+<description>Toda las noticias de interes sobre Marvel</description>
 </item>
 <item>
-<title>SEP</title>
-<pubDate>Tue, 14 Dec 2021 09:50:25 +0100</pubDate>
-<link>https://josecabello26.github.io/WEB-LENMA/index.html</link>
-<author>cabellocabello9@gmail.com</author>
-<category>SEP</category>
-<description>
-</description>
+<title>Noticias sobre DC</title>
+<link>https://josecabello26.github.io/WEB-LENMA/PAGINA4.html</link>
+<description>Toda las noticias de interes sobre DC</description>
 </item>
 </channel>
 </rss>
