@@ -1,8 +1,8 @@
 <rss version="2.0">
 <channel>
-<title>PES</title>
+<title>PAGINA PRINCIPAL</title>
 <link>https://josecabello26.github.io/WEB-LENMA/</link>
-<description>PES</description>
+<description></description>
 <language>en-es</language>
 <copyright>©Copyright 2050 by nobody. All rights reversed.</copyright>
 <skipDays>
@@ -11,18 +11,13 @@
 </skipDays>
 <image>
 <url>https://josecabello26.github.io/WEB-LENMA/fms.jpg</url>
-<title>PES</title>
+<title></title>
 <link>https://josecabello26.github.io/WEB-LENMA/</link>
 </image>
 <item>
 <title>PES</title>
 <link>https://josecabello26.github.io/WEB-LENMA/PAGINA3.html</link>
-<description>PES</description>
-</item>
-<item>
-<title>PES</title>
-<link>https://josecabello26.github.io/WEB-LENMA/PAGINA2.html</link>
-<description>PES</description>
+<description></description>
 </item>
 </channel>
 </rss>
