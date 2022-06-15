@@ -1,8 +1,8 @@
 <rss version="2.0">
 <channel>
-<title>Canal RSS de Sanctum-Sanctorum</title>
+<title>PES</title>
 <link>https://josecabello26.github.io/WEB-LENMA/</link>
-<description>Noticias sobre cine y series</description>
+<description>PES</description>
 <language>en-es</language>
 <copyright>©Copyright 2050 by nobody. All rights reversed.</copyright>
 <skipDays>
@@ -10,19 +10,19 @@
 <day>Sunday</day>
 </skipDays>
 <image>
-<url>https://josecabello26.github.io/WEB-LENMA/IMAGENES/bnet.jpg</url>
-<title>Canal RSS de Sanctum-Sanctorum</title>
+<url>https://josecabello26.github.io/WEB-LENMA/fms.jpg</url>
+<title>PES</title>
 <link>https://josecabello26.github.io/WEB-LENMA/</link>
 </image>
 <item>
-<title>Noticias sobre Marvel</title>
+<title>PES</title>
 <link>https://josecabello26.github.io/WEB-LENMA/PAGINA3.html</link>
-<description>Toda las noticias de interes sobre Marvel</description>
+<description>PES</description>
 </item>
 <item>
-<title>Noticias sobre DC</title>
+<title>PES</title>
 <link>https://josecabello26.github.io/WEB-LENMA/PAGINA2.html</link>
-<description>Toda las noticias de interes sobre DC</description>
+<description>PES</description>
 </item>
 </channel>
 </rss>
